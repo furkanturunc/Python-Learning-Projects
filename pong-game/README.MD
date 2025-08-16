@@ -1,11 +1,18 @@
-### Description
-- This project is a pong game from old days
-- It uses turtle graphics in Python
+## 🏓 Classic Pong Game
 
-### Learning Outcomes:
-- OOP and Inheritance in Python
-- turtle graphics functionalities (event listener, gui functions)
+### Description:
+This project is a Python-based version of the classic Pong game. Built using the Turtle graphics module, it allows two players to control paddles and compete in a simple, retro-style match.
 
-### To play the game:
-- download the repo into your local having with python3 
-- run the command from terminal: python3 main.py
+### 🔍 Features & Learning Outcomes
+- Practiced Object-Oriented Programming (**OOP**) and **Inheritance** in Python
+- Utilized **Turtle graphics** for GUI rendering and animation
+- Implemented **event listeners** for real-time keyboard controls
+- Learned basic game physics and screen boundary handling
+
+### 🚀 How to Run the Game
+- Clone or download this repository to your local machine
+- Ensure Python 3 is installed
+- In the terminal, run: **python3 main.py**
+- Left player plays with W (up), S (down); right player plays with Up and Down keys
+
+![Pong Game Demo](https://github.com/furkanturunc/Python-Learning-Projects/blob/main/pong-game/pong_game_demo.gif)
