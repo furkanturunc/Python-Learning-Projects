@@ -16,4 +16,4 @@ A simple game built using Python’s Turtle module where the player controls a t
 2. Ensure Python 3 is installed.
 3. Run the game from the terminal: **python3 main.py**
 
-![Turtle Crossing Gameplay](turtle-crossing-demo.gif)
+![Turtle Crossing Demo](https://github.com/furkanturunc/Python-Learning-Projects/turtle_crossing_demo.gif)
