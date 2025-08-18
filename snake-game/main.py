@@ -43,15 +43,14 @@ while is_game_on:
 
     # check if snake hits wall
     if abs(snake.head.xcor()) > 280 or abs(snake.head.ycor()) > 280:
-        is_game_on = False
-        scoreboard.game_over()
+        scoreboard.reset()
+        snake.reset()
 
     # check if snake head hits any of the other segments:
     for segment in snake.segments[1:]:
         if snake.head.distance(segment) < 10:
-            is_game_on = False
-            scoreboard.game_over()
-            break
+            scoreboard.reset()
+            snake.reset()
 
 screen.exitonclick()
 
