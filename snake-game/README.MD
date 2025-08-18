@@ -8,6 +8,7 @@ This project is a modern recreation of the classic Snake game using Python’s T
 - Implemented Turtle's **event listener** system
 - Practiced GUI programming with Python's built-in **turtle** module
 - Used **list and tuple slicing** to manage snake movement and growth logic
+- Handled reading/writing operations on **files** to read/write the highest score of the user in data.txt 
 
 ### 🚀 How to Run
 
