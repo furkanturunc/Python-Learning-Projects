@@ -29,19 +29,7 @@ After each work session, a **check-mark** is put on window to show the progress.
 
 ### Screenshots from App:
 
-- Initial
-
 ![Initial](https://github.com/furkanturunc/Python-Learning-Projects/blob/main/pomodoro-timer/images/reset.png)
-
-- Work
-
 ![Work](https://github.com/furkanturunc/Python-Learning-Projects/blob/main/pomodoro-timer/images/work.png)
-
-- Short Break
-
 ![Short Break](https://github.com/furkanturunc/Python-Learning-Projects/blob/main/pomodoro-timer/images/short_break.png)
-
-- Long Break
-
 ![Long Break](https://github.com/furkanturunc/Python-Learning-Projects/blob/main/pomodoro-timer/images/long_break.png)
-
