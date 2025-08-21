@@ -27,21 +27,21 @@ After each work session, a **check-mark** is put on window to show the progress.
 2. Ensure Python 3 is installed.
 3. Run the app from the terminal: **python3 main.py**
 
-Screenshots from App:
+### Screenshots from App:
 
-Initial
+-> Initial
 
 ![Initial](https://github.com/furkanturunc/Python-Learning-Projects/blob/main/pomodoro-timer/images/reset.png)
 
-Work
+-> Work
 
 ![Work](https://github.com/furkanturunc/Python-Learning-Projects/blob/main/pomodoro-timer/images/work.png)
 
-Short Break
+-> Short Break
 
 ![Short Break](https://github.com/furkanturunc/Python-Learning-Projects/blob/main/pomodoro-timer/images/short_break.png)
 
-Long Break
+-> Long Break
 
 ![Long Break](https://github.com/furkanturunc/Python-Learning-Projects/blob/main/pomodoro-timer/images/long_break.png)
 
